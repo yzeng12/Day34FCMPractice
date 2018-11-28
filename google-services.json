@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020401969717",
+    "firebase_url": "https://day34fcmpractice-ebfc7.firebaseio.com",
+    "project_id": "day34fcmpractice-ebfc7",
+    "storage_bucket": "day34fcmpractice-ebfc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020401969717:android:3e871a5502244b66",
+        "android_client_info": {
+          "package_name": "com.example.cln62.day34fcmpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020401969717-nraus48idnk84b7oanf4d0csm08bcc3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cln62.day34fcmpractice",
+            "certificate_hash": "c1b1698c9645b98382ededfde286ca94d5737b9c"
+          }
+        },
+        {
+          "client_id": "1020401969717-trr2q3hg34udu2lqnmg02ruefsvlj7i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTeUBCTB5oZRCD3OyYuWt7FDO8Dgv_awM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020401969717-trr2q3hg34udu2lqnmg02ruefsvlj7i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
